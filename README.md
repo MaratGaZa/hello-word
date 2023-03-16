@@ -1,2 +1,2 @@
 # hello-word
-**Hi, my name is Marat** :joy:
+**Hi, my name is Marat** :blush:
